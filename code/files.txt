@@ -5,15 +5,10 @@
 
 
 
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao01naniwa.txt
+utm_conf_path: /<ファイルのパス>/<西装置のホスト名>.txt
 
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao01karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao03karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao05karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao07karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao09karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao11karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao13karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/ubpao01karaga.txt
-utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/uspao01karaga.txt
+utm_conf_path: /<ファイルのパス>/<東装置のホスト名>.txt
+utm_conf_path: /<ファイルのパス>/<東装置のホスト名>.txt
+utm_conf_path: /<ファイルのパス>/<東装置のホスト名>.txt
+utm_conf_path: /<ファイルのパス>/<東装置のホスト名>.txt
 
