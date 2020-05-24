@@ -50,6 +50,15 @@ def comment_out(repeat_num):
 ### main ###
 
 
+# sys.argvの長さが2より小さい = コマンドライン引数無し
+if len(sys.argv) < 2:
+    print("No argument!")
+    print("usage: check_logsetting.py <file.txt>")
+    sys.exit()
+print("Argument:{}".format(sys.argv[1]))
+
+
+
 #########################
 ### ファイルパス読み込み ###
 #########################
