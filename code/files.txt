@@ -1,0 +1,26 @@
+
+# files.txt
+# update 
+# 2020/05/23 新規作成 sunao.yamaguchi
+
+# BCPのLog-settingを調査するための商用configを指定するファイル
+
+# configファイル名には必ずホスト名を入れること
+
+# BCP設定をする西セットのconfigを指定
+# ~_path: <ファイルのパス>
+# と記載すること。 :の後ろは必ずスペースを入れること
+
+
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao01naniwa.txt
+
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao01karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao03karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao05karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao07karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao09karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao11karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/upao13karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/ubpao01karaga.txt
+utm_conf_path: /Users/sunao/workspace/3.vutm/tmp/config/uspao01karaga.txt
+
